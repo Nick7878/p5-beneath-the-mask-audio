@@ -1,0 +1,10 @@
+{
+  "name": "Beneath the Mask - instrumental version",
+  "description": "The instrumental version of Beneath the Mask from Persona 5 by Shoji Meguro.",
+  "author": "Nick7878",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
